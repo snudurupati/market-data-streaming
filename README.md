@@ -16,8 +16,8 @@ for notes on deploying the project on a live system.
 ### Prerequisites
 
 Requirements for the software and other tools to build, test and push 
-- [Example 1](https://www.example.com)
-- [Example 2](https://www.example.com)
+- [Confluent](https://www.confluent.com)
+- [Databricks](https://www.databricks.com)
 
 ### Installing
 
