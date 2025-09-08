@@ -1,4 +1,4 @@
-📊 ###Market Data Streaming & Client Analytics
+📊 ### Market Data Streaming & Client Analytics
 
 * Problem: Wealth advisors and trading platforms often provide delayed analytics to clients.
 
